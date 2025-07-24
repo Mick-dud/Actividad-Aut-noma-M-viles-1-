@@ -5,7 +5,7 @@ export const EjercicioUno = () => {
 
     return (
         <div>
-            <h3>Ejercicio 1</h3>
+            <h2>Ejercicio 1</h2>
             <h6>El área de un cuadrado</h6>
             <span>El resultado del area es: {area()}</span>
         </div>
